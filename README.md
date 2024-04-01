@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amit-sevda-207798300" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-sevda-207798300" height="30" width="40" /></a>
-<a href="https://leetcode.com/Amit_sevda/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@amitsevda2303" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amit__sharma74/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amit__sharma74/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-sevda-207798300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-sevda-207798300" height="30" width="40" /></a>
+<a href="https://leetcode.com/Amit_sevda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@amitsevda2303" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amit__sharma74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amit__sharma74/" height="30" width="40" /></a>
 
 
 </p>
