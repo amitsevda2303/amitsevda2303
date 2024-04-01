@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **react , java-script , Next.js**
 
-- 📫 How to reach me **amitsevda2303@gmail.com**
+- 📫 How to reach me [amitsevda2303@gmail.com](mailto:amitsevda2303@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
