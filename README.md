@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I am Amit Sevda</h1>
-<h3 align="center" >👋 Hey! I'm Amit, your friendly neighborhood web developer with expertise in Next.js and the MERN stack. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
+<h3 align="center" > Hey! 👋 I'm Amit, your friendly neighborhood web developer with expertise in Next.js and the MERN stack. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsevda2303&style=plastic&abbreviated=true" alt="amitsevda2303" /> </p>
 
